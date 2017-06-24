@@ -5,7 +5,7 @@
 
 ```bash
 # clone our repo
-$ git clone https://github.com/preboot/angular-webpack.git my-app
+$ git clone https://github.com/henke85/angular2-sample.git my-app
 
 # change directory to your app
 $ cd my-app
